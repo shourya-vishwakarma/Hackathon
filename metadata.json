@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel SOC Dashboard",
+  "description": "Military-grade cybersecurity Security Operations Center (SOC) dashboard featuring real-time threat intelligence, live attack monitoring, and automated mitigation simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
